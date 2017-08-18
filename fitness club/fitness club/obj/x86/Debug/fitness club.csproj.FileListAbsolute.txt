@@ -1,0 +1,21 @@
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\bin\Debug\fitness club.exe
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\bin\Debug\fitness club.pdb
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness_club.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness_club.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness club.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness club.exe
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness club.pdb
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness_club.Form2.resources
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness_club.Form3.resources
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness_club.Form4.resources
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\bin\Debug\fitness club.exe.config
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\bin\Debug\fitness_db.mdf
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\bin\Debug\fitness_db_log.ldf
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\bin\Debug\fitness_mgmt.mdf
+c:\users\admin\documents\visual studio 2010\Projects\fitness club\fitness club\bin\Debug\fitness_mgmt_log.ldf
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness club.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness_club.Form5.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness_club.Form6.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness_club.Form7.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness_club.Form8.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\fitness club\fitness club\obj\x86\Debug\fitness_club.Form9.resources
